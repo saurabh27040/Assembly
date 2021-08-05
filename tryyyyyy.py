@@ -2,6 +2,9 @@
 variable = 1
 gtui = "kdm"
 
+def div(a, b):
+	return a / b
+
 def add(a, b):
 	return a + b
 
